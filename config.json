@@ -1,8 +1,10 @@
+// Configure Database
+
 {
     "database": {
-        "host": "localhost",
-        "name": "final",
-        "username": "codydv",
-        "password": "3vXt73bGW7mEcGnI"
+        "host": "",
+        "name": "",
+        "username": "",
+        "password": ""
     }
 }
