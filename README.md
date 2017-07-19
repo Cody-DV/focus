@@ -22,3 +22,11 @@ In terminal window
   2. apache50 start /public
 
 -------------------------------------------------------------------------------------------------------
+
+
+
+![Dashboard](public/img/FocusNewEntry.png)
+
+![Dashboard](public/img/FocusDashboard1.png)
+
+![Dashboard](public/img/FocusDashboard2.png)
